@@ -1355,7 +1355,7 @@ html[xmlns] .flexslider .slides {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #b40101;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -1389,7 +1389,7 @@ html[xmlns] .flexslider .slides {
 
 .nav-logo {
   float: left !important;
-  max-width: 250px;
+  max-width: 300px;
   margin: 5px;
   padding: 10px; }
 
@@ -1402,7 +1402,7 @@ html[xmlns] .flexslider .slides {
 
   .nav-logo-small {
     max-width: 250px;
-    margin-top: -10px; } }
+    margin-top: -16px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -2552,7 +2552,7 @@ form select {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #b40101;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
