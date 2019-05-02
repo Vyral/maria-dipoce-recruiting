@@ -4,7 +4,7 @@ description: Maria DiPoce, a top Real Estate Agent in Coppell, shares her own in
 show_custom_links: true
 custom_links:
   - title: Join Our Team
-    url: /join-our-team/
+    url: https://coppell.yourkwoffice.com/mcj/user/CareerFormGetAction.do
   - title: Events
     url: #
   - title: Free Strategy Call
