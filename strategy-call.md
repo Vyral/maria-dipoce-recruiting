@@ -41,8 +41,6 @@ permalink: /strategy-call/
 <p><span class="quote"></span><br>
 <span class="author"></span></p>
 
-<hr>
-
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
 <p>Why am I offering this?</p>
