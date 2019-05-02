@@ -22,8 +22,6 @@ permalink: /strategy-call/
 
 <!-- {% include strategy-photos.html %} -->
 
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
-
 <p>I want to help you sell more homes.</p>
 
 <p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes.</p>
@@ -38,17 +36,11 @@ permalink: /strategy-call/
 
 <hr>
 <div class="qanda">
-<p class="section-title">Here’s what a few agents say about working with me…</p>
+<p class="section-title"></p>
 
 <p><span class="quote"></span><br>
 <span class="author"></span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
-
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
-</div>
 <hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
