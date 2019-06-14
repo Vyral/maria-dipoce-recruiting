@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A New Way to Think About Goal Setting in Your Business
-date: 2019-06-14 18:43:56
+date: 2019-06-14 18:43:00
 tags:
   - Lead Conversion
 excerpt: >-
