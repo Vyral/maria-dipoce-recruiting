@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Your Business Can Prevail in This Current Technological Shift
-date: 2019-06-28 15:23:58
+date: 2019-06-28 15:23:00
 tags:
   - Lead Generation
 excerpt: >-
