@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/6-27---maria-dipoce---youtube.jpg
-youtube_code: 04zTaffOQrQ
+youtube_alternate_image: /uploads/6-27---maria-dipoce---email.jpg
+youtube_code: URyIQeERPRE
 ---
 
 {% include youtube.html %}
