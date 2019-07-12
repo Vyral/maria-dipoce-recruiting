@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Our Team Spent Red Day
-date: 2019-07-12 20:49:36
+date: 2019-07-12 20:49:00
 tags:
   - Listing Presentation
 excerpt: Today you’ll get an exclusive look at how our team spent Red Day.
