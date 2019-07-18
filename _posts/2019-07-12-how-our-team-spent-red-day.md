@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-12---maria-dipoce---youtube.jpg
-youtube_code: aOwkl3CRuXU
+youtube_code: etAN96KL_mI
 ---
 
 {% include youtube.html %}
