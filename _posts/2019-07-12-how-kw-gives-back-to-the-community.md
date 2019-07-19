@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Our Team Spent Red Day
+title: How KW Gives Back to the Community
 date: 2019-07-12 20:49:00
 tags:
   - Listing Presentation
