@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Willpower Is Not Always on Will-Call
-date: 2019-07-29 14:20:32
+date: 2019-07-29 14:20:00
 tags:
   - Transaction Management
 excerpt: >-
