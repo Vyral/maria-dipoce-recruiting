@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Willpower is not always on will-call. What does that mean? Find out right
   here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Maria+DiPoce/Willpower+Is+Not+Always+on+Will-Call.mp4
 pullquote: >-
   Statistics show that people are most productive in the first three to four
   hours of the day.
