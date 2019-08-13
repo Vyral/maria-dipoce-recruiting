@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 L’s of Real Estate
-date: 2019-08-13 13:38:49
+date: 2019-08-13 13:38:00
 tags:
   - Transaction Management
 excerpt: >-
