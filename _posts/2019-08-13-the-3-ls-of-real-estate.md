@@ -20,7 +20,7 @@ youtube_code: 99mnKj_4eF4
 
 As real estate agents, there are three things you need to thrive in this industry. We like to call these things “the three L’s.”
 
-The first “L” stands for leads, i.e. potential clients. No matter if you’re doing $2 million in production or $10 million, you need leads to succeed.&nbsp;
+The first “L” stands for leads, i.e, potential clients. No matter if you’re doing $2 million in production or $10 million, you need leads to succeed.&nbsp;
 
 And, of course, you also need listings—as signified by our second “L”. Listings are king in real estate because if you have listings, you have our third “L”: leverage.&nbsp;
 
