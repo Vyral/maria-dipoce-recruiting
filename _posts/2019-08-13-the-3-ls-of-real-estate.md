@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What are the three L’s of real estate and what do they mean for your success?
   Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Maria+DiPoce/The+3+Ls+of+Real+Estate.mp4
 pullquote: 'Leads bring you listings, and listings bring you leverage.'
 enclosure_type: video/mp4
 enclosure_time:
