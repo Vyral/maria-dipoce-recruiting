@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Important Is Your Mindset in Real Estate?
-date: 2019-08-26 18:04:59
+date: 2019-08-26 18:04:00
 tags:
   - Transaction Management
 excerpt: What mindset should you have every day as a real estate agent? Find out here.
