@@ -5,7 +5,8 @@ date: 2019-08-26 18:04:00
 tags:
   - Transaction Management
 excerpt: What mindset should you have every day as a real estate agent? Find out here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Maria+DiPoce/How+Important+Is+Your+Mindset+in+Real+Estate_.mp4
 pullquote: >-
   We have to make a daily commitment to feed our brain more good than the world
   is trying to feed it bad.
