@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Pointers for Creating a Winning Offer
-date: 2019-09-10 13:43:10
+date: 2019-09-10 13:43:00
 tags:
   - Buyer Prospects
 excerpt: >-
