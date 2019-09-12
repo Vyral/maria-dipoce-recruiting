@@ -8,7 +8,7 @@ excerpt: >-
   How do you present an offer on a home that will win over multiple competing
   offers? Here are my tips.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Maria+DiPoce/3+Pointers+for+Creating+a+Winning+Offer.mp4
+  https://vyralmarketing.s3.amazonaws.com/Maria+DiPoce/3+Pointers+for+Creating+a+Winning+Offer+(1).mp4
 pullquote: >-
   A lot of times, agents assume that the seller is all about the price, but many
   times price has nothing to do with it; it could instead be about terms or
