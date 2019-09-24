@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Focusing on the Big Picture in Your Business?
-date: 2019-09-24 15:35:28
+date: 2019-09-24 15:35:00
 tags:
   - Transaction Management
 excerpt: >-
