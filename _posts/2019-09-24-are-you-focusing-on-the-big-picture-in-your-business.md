@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-23---maria-dipoce---youtube.jpg
-youtube_code: 'https://youtu.be/vfQGazmgd9s'
+youtube_code: EYHp_yvIGeU
 ---
 
 {% include youtube.html %}
