@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you aren’t running your business like a CEO, it’s time to start. Here’s
   why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Maria+DiPoce/Are+You+Focusing+on+the+Big+Picture+in+Your+Business_.mp4
 pullquote: >-
   Agents who run their businesses like a CEO create sustainable systems and
   powerful brands, which are crucial to long-term success.
