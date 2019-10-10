@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 1 Thing You Should Do to Compete With Discount Brokerages
-date: 2019-10-10 14:15:48
+date: 2019-10-10 14:15:00
 tags:
   - Transaction Management
 excerpt: Find out what you can do to compete with discount brokerages.
