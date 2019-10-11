@@ -19,6 +19,8 @@ youtube_code: Mj06uBulEhQ
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Find out what you can do to compete with discount brokerages.</em></p>
+
 I talk to a lot of you on a weekly basis, and one thing we commonly discuss is, what is going on in the industry, what’s with all the discount brokerages suddenly appearing, and what can I do to make sure that I stay relevant in the conversation and my commissions don’t go away?&nbsp;
 
 FYI: This is an extremely relevant topic that you and your brokerage should be discussing because your commissions fund your life, they fund every bill you pay.
