@@ -13,13 +13,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/maria-dipoce-discount-brokerages-youtube.png
+youtube_alternate_image: /uploads/maria-dipoce-discount-brokerages-youtube-1.png
 youtube_code: Mj06uBulEhQ
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Find out what you can do to compete with discount brokerages.</em></p>
+*Find out what you can do to compete with discount brokerages.*
 
 I talk to a lot of you on a weekly basis, and one thing we commonly discuss is, what is going on in the industry, what’s with all the discount brokerages suddenly appearing, and what can I do to make sure that I stay relevant in the conversation and my commissions don’t go away?&nbsp;
 
