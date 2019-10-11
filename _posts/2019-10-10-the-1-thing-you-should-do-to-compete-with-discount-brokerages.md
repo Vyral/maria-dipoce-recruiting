@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/maria-dipoce-discount-brokerages-youtube.png
-youtube_code: 'https://youtu.be/Q_Ug--NQXpQ'
+youtube_code: Mj06uBulEhQ
 ---
 
 {% include youtube.html %}
