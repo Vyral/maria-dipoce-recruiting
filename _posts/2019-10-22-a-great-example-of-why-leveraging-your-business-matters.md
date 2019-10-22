@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Great Example of Why Leveraging Your Business Matters
-date: 2019-10-22 14:59:32
+date: 2019-10-22 14:59:00
 tags:
   - Buyer Prospects
 excerpt: Why does leveraging your business matter? Today I’ll explain.
