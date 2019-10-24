@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/MuCHqmOLPog'
 
 {% include youtube.html %}
 
-*Why does leveraging your business matter? Today I’ll explain.*
+<p style="text-align: center;"><em>Why does leveraging your business matter? Today I’ll explain.</em></p>
 
 I first started in this industry about 10 years ago. When I was three transactions into my real estate career, I went to my broker and said, “You know what? This isn’t working out. I picked the wrong career path.”
 
