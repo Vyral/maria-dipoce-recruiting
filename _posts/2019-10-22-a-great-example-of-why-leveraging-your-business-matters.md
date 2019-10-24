@@ -13,13 +13,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/maria-dipoce-leveraging-your-business-youtube.png
+youtube_alternate_image: /uploads/maria-dipoce-leveraging-your-business-youtube-2.png
 youtube_code: 'https://youtu.be/MuCHqmOLPog'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Why does leveraging your business matter? Today I’ll explain.</em></p>
+*Why does leveraging your business matter? Today I’ll explain.*
 
 I first started in this industry about 10 years ago. When I was three transactions into my real estate career, I went to my broker and said, “You know what? This isn’t working out. I picked the wrong career path.”
 
