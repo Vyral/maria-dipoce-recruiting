@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/ZDl2T6SXB5c'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>According to Gary Keller’s book “The Millionaire Agent Mindset,” you should touch your database 36 times a year.</em></p>
+
 How many times a year should you touch your database?
 
 Back in the day, the number was a lot higher because communication wasn’t as fast as it is now. Things have changed quite a bit over the years, though. Not only do we use social media resources (Facebook, Instagram, etc.) all the time, but so do our clients, which means they’re bombarded all the time by other companies trying to take their business away from you.&nbsp;
