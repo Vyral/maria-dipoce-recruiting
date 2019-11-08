@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Often You Should Touch Your Database
-date: 2019-11-08 15:00:18
+date: 2019-11-08 15:00:00
 tags:
   - Transaction Management
 excerpt: >-
