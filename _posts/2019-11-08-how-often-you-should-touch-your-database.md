@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/ZDl2T6SXB5c'
 
 How many times a year should you touch your database?
 
-Back in the day, the number was a lot higher because communication wasn’t as fast as it is now. Things have changed quite a bit over the years, though. Not only do we use social media resources (Facebook, Instagram, etc.) all the time, but so do our clients, which means they’re bombarded all the time by other companies trying to take their business away from you.&nbsp;
+Back in the day, the number was a lot higher because communication wasn’t as fast as it is now. Things have changed quite a bit over the years, though. Not only do we use social media resources (Facebook, Instagram, etc.) all the time, but so do our clients, which means they’re bombarded constantly by other companies trying to take their business away from you.&nbsp;
 
 The good news is, we don’t have to put a lot of thought into how many times a year we should touch our database, because Gary Keller’s book “The Millionaire Agent Mindset” actually tells you how often you should do it.&nbsp;
 
