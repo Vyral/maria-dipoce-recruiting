@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Need to Take Ownership of Your Business
-date: 2019-11-22 17:39:09
+date: 2019-11-22 17:39:00
 tags:
   - Transaction Management
 excerpt: >-
