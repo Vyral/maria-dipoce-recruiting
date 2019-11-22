@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/5MGGllDvDdw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Taking ownership of your business is the key to making your real estate career what you want it to be. Here’s how you can get started.</em></p>
+
 Today’s topic is very near and dear to me. It’s something I talk to my agents about almost daily: Taking ownership of your business.
 
 You did all this work to go out and get your license and you essentially become a business owner. **Whether you’re on a team, joined an independent brokerage, or somewhere in the middle, taking ownership of your business will make the difference between having a life worth living and one not worth living.&nbsp;**
